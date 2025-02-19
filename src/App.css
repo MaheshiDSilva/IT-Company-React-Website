@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.sidebar{
+  max-width: 5;
+  background-color: blue;
+  left: 0;
+  top: 0; 
+}
